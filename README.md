@@ -10,10 +10,20 @@ Create a Flutter app with responsive components that adapt their sizes based on 
   <table>
     <tr>
       <td style="padding-right: 20">
-        <img src="assets/Screenshots/home.jpg" alt="App Screenshot 1" width="480">
+        <img src="assets/screenshots/phone.png" alt="App Screenshot 1" width="400">
       </td>
       <td>
-        <img src="assets/Screenshots/detail_screen.jpg" alt="App Screenshot 2" width="480">
+        <img src="assets/screenshots/tab.png" alt="App Screenshot 2" width="800">
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="assets/screenshots/tv.png" alt="App Screenshot 3" width="1200">
       </td>
     </tr>
   </table>
