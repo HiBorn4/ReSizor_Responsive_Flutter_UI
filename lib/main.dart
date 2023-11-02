@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
         double greyCardWidth = screenWidth * 0.25; // 20% of screen width
 
         return MaterialApp(
+          debugShowCheckedModeBanner: false,
           home: Scaffold(
             body: Center(
               child: Container(
