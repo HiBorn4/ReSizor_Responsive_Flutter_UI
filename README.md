@@ -4,6 +4,21 @@
 
 Create a Flutter app with responsive components that adapt their sizes based on the screen dimensions. This project aims to demonstrate your understanding of responsive UI development in Flutter.
 
+## Screenshots
+
+<p align="center">
+  <table>
+    <tr>
+      <td style="padding-right: 20">
+        <img src="assets/Screenshots/home.jpg" alt="App Screenshot 1" width="480">
+      </td>
+      <td>
+        <img src="assets/Screenshots/detail_screen.jpg" alt="App Screenshot 2" width="480">
+      </td>
+    </tr>
+  </table>
+</p>
+
 ## Task Description
 
 Objective is to create two different cards on the same screen with the following characteristics:
